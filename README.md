@@ -1,8 +1,3 @@
----
-title: About me
-date: 2021-06-28 17:51:42
----
-
 👨‍💻 Software Engineer 👪 Father 🧙 Geek 👨‍🏫 Learner 
 
 ----
