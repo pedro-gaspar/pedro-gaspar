@@ -2,7 +2,7 @@
 
 ----
 
-![Me](https://elixirgraildiary.com/images/me.jpeg)
+![Me](https://pedrogaspar.eu/images/me.jpeg)
 
 ## About me
 
